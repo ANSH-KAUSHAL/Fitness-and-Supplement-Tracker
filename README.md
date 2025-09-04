@@ -1,4 +1,4 @@
-##MDMA Fitness Tracker
+###MDMA Fitness Tracker
 
 A full-stack fitness tracking web app to log food, track workouts, and monitor progress. Built with React (Frontend), Node.js + Express (Backend), and MongoDB Atlas.
 
