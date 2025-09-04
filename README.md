@@ -1,4 +1,4 @@
-###MDMA Fitness Tracker
+Fitness and Supplement Tracker
 
 A full-stack fitness tracking web app to log food, track workouts, and monitor progress. Built with React (Frontend), Node.js + Express (Backend), and MongoDB Atlas.
 
@@ -9,7 +9,7 @@ Backend: Node.js, Express, JWT, bcrypt
 Database: MongoDB Atlas
 
 📂 Project Structure
-MDMA/
+Fitness and Supplement Tracker/
  ├── frontend/   # React app
  └── backend/    # Express API
 
